@@ -1,10 +1,11 @@
 Iggy é uma interface via linha de comando que, recebe instruções e se move ao redor de um terreno.
 Ela aceita os comandos:
 
-- Place;
-- move;
-- left;
-- right.
+- PLACE;
+- MOVE;
+- LEFT;
+- RIGHT;
+- REPORT;
 
 ## Testando a Iggy
 Para iniciar os testes e fazer a iggy andar, ela precisa receber primeiramente um comando, informando qual o local na tela ela estará posicionada:
